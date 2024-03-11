@@ -20,5 +20,5 @@ class Solution:
             
         return sum
 
-# Time complexity: O(n)
-# Space complexity: O(n)
+# Time Complexity: O(n)
+# Space Complexity: O(n)
